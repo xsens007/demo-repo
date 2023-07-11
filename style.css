@@ -45,12 +45,14 @@ body {
     font-size: 80px;
     font-weight: 800;
     line-height: normal;
+    margin-bottom: 32px;
 }
 
 .nav-description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
+    margin-bottom: 32px;
 }
 
 .nav-img {
@@ -144,6 +146,9 @@ body {
 
 #dc-btn {
     margin-top: 32px;
+}
+.dc-title{
+    margin-bottom: 24px;
 }
 
 /* Discount area end  */
